@@ -1,0 +1,28 @@
+name: chaserobin_engineering
+favicon: null
+layout_spectrum: 0.12513067992404103
+typography_spectrum: 0.12030631420202553
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.04871466942131519
+  lightness: 0.20326237473636866
+  saturation: 0.8332043839618564
+  rhythmicContrast: 0.4881655112840235
+purpose: []
